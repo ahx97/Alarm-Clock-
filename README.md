@@ -8,6 +8,6 @@
 
 *Identify the top-level functional requirement for the clock, and model it with a use case diagram.  (Use case description will come later.  Only create the use case diagram now.)*
 
-![alt text](https://photos.app.goo.gl/unyDVc9saXUmyy3G3)
+[Imgur](https://i.imgur.com/FRXgMas.png)
 
 
